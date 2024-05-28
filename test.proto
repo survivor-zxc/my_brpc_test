@@ -1,0 +1,17 @@
+
+syntax="proto2";
+
+option cc_generic_services = true;
+
+message TestRequest {
+      required int32 n1 = 1;
+      required int32 n2 = 2;
+};
+
+message TestResponse {
+      required int32 ans = 1;
+};
+
+service TestService {
+      rpc Test(TestRequest) returns (TestResponse);
+};

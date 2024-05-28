@@ -1,0 +1,4 @@
+/home/zxc/Test/brpc/example/my_test/CMakeFiles/rebuild_cache.dir
+/home/zxc/Test/brpc/example/my_test/CMakeFiles/edit_cache.dir
+/home/zxc/Test/brpc/example/my_test/CMakeFiles/test_server.dir
+/home/zxc/Test/brpc/example/my_test/CMakeFiles/test_client.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/test_server.dir/server.cpp.o CMakeFiles/test_server.dir/test.pb.cc.o  -o test_server  /home/zxc/Test/brpc/output/lib/libbrpc.a -lpthread -lgflags -lprotobuf -lpthread -lcrypto -lssl -lleveldb -ldl 

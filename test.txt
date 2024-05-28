@@ -1,0 +1,3 @@
+/home/zxc/Test/brpc/src/brpc
+/home/zxc/Test/brpc/output/include/brpc
+/home/zxc/Test/brpc
